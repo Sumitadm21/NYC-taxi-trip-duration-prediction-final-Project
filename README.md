@@ -1,4 +1,4 @@
-# -NYC-taxi-trip-duration-prediction-Project
+# NYC-taxi-trip-duration-prediction-Project
 In this assignment, we are providing you the NYC-trip duration dataset.
 
 At some point or the other almost each one of us has used an Ola or Uber for taking a ride. 
